@@ -26,7 +26,8 @@
 3. [misspell in `schedule.yml`](https://github.com/kubeedge/kubeedge/pull/5814)
 4. [Tests for `cloud/pkg/admissioncontroller` package](https://github.com/kubeedge/kubeedge/pull/5813)
 5. [`Typed` tests](https://github.com/kubeedge/kubeedge/pull/5812)
-6. 
+6. [Added tests for `overridemanager` package](https://github.com/kubeedge/kubeedge/pull/5810)
+7. [UTs for `commmandoverrider.go`](https://github.com/kubeedge/kubeedge/pull/5809)
 
 ### CNCF Kyverno
 
