@@ -16,10 +16,17 @@
   </p>
 </div>
 
+<br>
+<br>
+
 ### CNCF KubeEdge
 
-1. [Moving from standard lib to stretchr/testify for UT](https://github.com/kubeedge/kubeedge/pull/5837)
-2. 
+1. [Moving from standard lib to `stretchr/testify` for UT](https://github.com/kubeedge/kubeedge/pull/5837)
+2. [Test coverage for `cloud/cmd`](https://github.com/kubeedge/kubeedge/pull/5827)
+3. [misspell in `schedule.yml`](https://github.com/kubeedge/kubeedge/pull/5814)
+4. [Tests for `cloud/pkg/admissioncontroller` package](https://github.com/kubeedge/kubeedge/pull/5813)
+5. [`Typed` tests](https://github.com/kubeedge/kubeedge/pull/5812)
+6. 
 
 ### CNCF Kyverno
 
