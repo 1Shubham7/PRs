@@ -28,6 +28,10 @@
 5. [`Typed` tests](https://github.com/kubeedge/kubeedge/pull/5812)
 6. [Added tests for `overridemanager` package](https://github.com/kubeedge/kubeedge/pull/5810)
 7. [UTs for `commmandoverrider.go`](https://github.com/kubeedge/kubeedge/pull/5809)
+8. [Test coverage for cloud/pkg/dynamiccontroller module](https://github.com/kubeedge/kubeedge/pull/5803)
+9. [Added tests for cloud/pkg/csidriver pkg](https://github.com/kubeedge/kubeedge/pull/5795)
+10. [Test coverage for edge/pkg/metamanager/client module - lease and node files](https://github.com/kubeedge/kubeedge/pull/5780)
+11. 
 
 ### CNCF Kyverno
 
