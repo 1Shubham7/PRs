@@ -21,6 +21,8 @@
 
 ### CNCF KubeEdge
 
+kubeedge/kubeedge
+
 1. [Moving from standard lib to `stretchr/testify` for UT](https://github.com/kubeedge/kubeedge/pull/5837)
 2. [Test coverage for `cloud/cmd`](https://github.com/kubeedge/kubeedge/pull/5827)
 3. [misspell in `schedule.yml`](https://github.com/kubeedge/kubeedge/pull/5814)
@@ -45,6 +47,16 @@
 22. [Test coverage for `cloudstream` package](https://github.com/kubeedge/kubeedge/pull/5684)
 23. [Added test coverage for `cloudstream.go`](https://github.com/kubeedge/kubeedge/pull/5682)
 24. [Test coverage for `application.go`](https://github.com/kubeedge/kubeedge/pull/5675)
+
+kubeedge/website
+
+26. [New Blog for Release KubeEdge v1.10](https://github.com/kubeedge/website/pull/535)
+27. [New Blog for Release KubeEdge v1.11](https://github.com/kubeedge/website/pull/538)
+28. [New Blog for Release KubeEdge v1.12](https://github.com/kubeedge/website/pull/539)
+29. [New Blog for Release KubeEdge v1.13](https://github.com/kubeedge/website/pull/542)
+30. [New Blog for Release KubeEdge v1.14](https://github.com/kubeedge/website/pull/541)
+31. [New Blog for Release KubeEdge v1.15](https://github.com/kubeedge/website/pull/579)
+32. [New Blog for Release KubeEdge v1.17](https://github.com/kubeedge/website/pull/534)
 
 ### CNCF Kyverno
 
