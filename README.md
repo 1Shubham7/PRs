@@ -60,4 +60,9 @@ kubeedge/website
 
 ### CNCF Kyverno
 
+kyverno/kyverno
+
+1. [Bug: Enabling many-to-one comparisons for `AnyNotIn` operator](https://github.com/kyverno/kyverno/pull/9462)
+2. [Bug: making `images` variable consistent with the `image` variable](https://github.com/kyverno/kyverno/pull/9147)
+
 ### CNCF ORAS
