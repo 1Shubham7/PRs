@@ -21,7 +21,7 @@
 
 ### CNCF KubeEdge
 
-kubeedge/kubeedge
+**kubeedge/kubeedge**
 
 1. [Moving from standard lib to `stretchr/testify` for UT](https://github.com/kubeedge/kubeedge/pull/5837)
 2. [Test coverage for `cloud/cmd`](https://github.com/kubeedge/kubeedge/pull/5827)
@@ -48,7 +48,7 @@ kubeedge/kubeedge
 23. [Added test coverage for `cloudstream.go`](https://github.com/kubeedge/kubeedge/pull/5682)
 24. [Test coverage for `application.go`](https://github.com/kubeedge/kubeedge/pull/5675)
 
-kubeedge/website
+**kubeedge/website**
 
 26. [New Blog for Release KubeEdge v1.10](https://github.com/kubeedge/website/pull/535)
 27. [New Blog for Release KubeEdge v1.11](https://github.com/kubeedge/website/pull/538)
@@ -60,13 +60,13 @@ kubeedge/website
 
 ### CNCF Kyverno
 
-kyverno/kyverno
+**kyverno/kyverno**
 
 1. [Bug: Enabling many-to-one comparisons for `AnyNotIn` operator](https://github.com/kyverno/kyverno/pull/9462)
 2. [Bug: making `images` variable consistent with the `image` variable](https://github.com/kyverno/kyverno/pull/9147)
 3. [adding myself (Shubham Singh) to CONTRIBUTORS.md](https://github.com/kyverno/kyverno/pull/10149)
 
-kyverno/website
+**kyverno/website**
 
 4. [Value for reference variable should be fixed.](https://github.com/kyverno/website/pull/1176)
 5. [Enhancement: documenting the `images` variables, `reference` and `referenceWithTag`](https://github.com/kyverno/website/pull/1162)
@@ -77,11 +77,11 @@ kyverno/website
 
 ### CNCF ORAS
 
-oras-project/oras
+**oras-project/oras**
 
 1. [chore: improving error log for `oras push` and `oras attach` when the annotation file is invalid](https://github.com/oras-project/oras/pull/1026)
 
-oras-project/oras-www
+**oras-project/oras-www**
 
 2. [adding `oras manifest fetch` to the docs "Pushing_and_pulling"](https://github.com/oras-project/oras-www/pull/241)
 3. [docs: resolves markdown error and misspells in "pushing and pulling artifacts" section](https://github.com/oras-project/oras-www/pull/230)
