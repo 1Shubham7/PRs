@@ -64,5 +64,15 @@ kyverno/kyverno
 
 1. [Bug: Enabling many-to-one comparisons for `AnyNotIn` operator](https://github.com/kyverno/kyverno/pull/9462)
 2. [Bug: making `images` variable consistent with the `image` variable](https://github.com/kyverno/kyverno/pull/9147)
+3. [adding myself (Shubham Singh) to CONTRIBUTORS.md](https://github.com/kyverno/kyverno/pull/10149)
+
+kyverno/website
+
+4. [Value for reference variable should be fixed.](https://github.com/kyverno/website/pull/1176)
+5. [Enhancement: documenting the `images` variables, `reference` and `referenceWithTag`](https://github.com/kyverno/website/pull/1162)
+6. [Enhancement: added fuzzing and 3rd party security audit links to the Security section](https://github.com/kyverno/website/pull/1111)
+7. [Fixed a grammatical mistake](https://github.com/kyverno/website/pull/1108)
+8. [Feat: Added a new section about Admission Controllers](https://github.com/kyverno/website/pull/1086)
+9. [Updated settings 'userServerSideApply' to 'useServerSideApply'](https://github.com/kyverno/website/pull/1085)
 
 ### CNCF ORAS
