@@ -59,6 +59,10 @@
 30. [New Blog for Release KubeEdge v1.14](https://github.com/kubeedge/website/pull/541)
 31. [New Blog for Release KubeEdge v1.15](https://github.com/kubeedge/website/pull/579)
 32. [New Blog for Release KubeEdge v1.17](https://github.com/kubeedge/website/pull/534)
+33. [Bug: We need to fix some links for local development](https://github.com/kubeedge/website/pull/567)
+34. [Docs: Improving the install with `keadm` documentation](https://github.com/kubeedge/website/pull/544)
+35. [Replacing Twitter with X](https://github.com/kubeedge/website/pull/543)
+36. [PR template goes inside `.github` directory](https://github.com/kubeedge/website/pull/537)
 
 ### CNCF Kyverno
 
