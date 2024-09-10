@@ -90,5 +90,5 @@
 **oras-project/oras-www**
 
 2. [adding `oras manifest fetch` to the docs "Pushing_and_pulling"](https://github.com/oras-project/oras-www/pull/241)
-3. [docs: resolves markdown error and misspells in "pushing and pulling artifacts" section](https://github.com/oras-project/oras-www/pull/230)
+3. [Docs: resolves markdown error and misspells in "pushing and pulling artifacts" section](https://github.com/oras-project/oras-www/pull/230)
 4. [Docs: Added the Licenses badge and small "Contribution" section to readme](https://github.com/oras-project/oras-www/pull/214)
