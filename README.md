@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### Total PRs merged - 49
+### Total PRs merged - 50
 
 ### CNCF KubeEdge
 
@@ -50,7 +50,7 @@
 23. [Added test coverage for `cloudstream.go`](https://github.com/kubeedge/kubeedge/pull/5682)
 24. [Test coverage for `application.go`](https://github.com/kubeedge/kubeedge/pull/5675)
 25. [Test coverage for `edge/pkg/metamanager/client` module - CSR and CM files](https://github.com/kubeedge/kubeedge/pull/5757)
-26. [Test coverage for edge/pkg/metamanager/client module - pod, podstatus and secret files](https://github.com/kubeedge/kubeedge/pull/5905)
+26. [Test coverage for `edge/pkg/metamanager/client` module - pod, podstatus and secret files](https://github.com/kubeedge/kubeedge/pull/5905)
 
 **kubeedge/website**
 
