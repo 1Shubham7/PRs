@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### Total PRs merged - 50
+### Total PRs merged - 51
 
 ### CNCF KubeEdge
 
@@ -65,6 +65,7 @@
 35. [Docs: Improving the install with `keadm` documentation](https://github.com/kubeedge/website/pull/544)
 36. [Replacing Twitter with X](https://github.com/kubeedge/website/pull/543)
 37. [PR template goes inside `.github` directory](https://github.com/kubeedge/website/pull/537)
+38. [CSI Driver `versionFlag` is inconsistent during CI tests](https://github.com/kubeedge/kubeedge/pull/5928)
 
 ### CNCF Kyverno
 
