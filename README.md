@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### Total PRs merged - 52
+### Total PRs merged - 53
 
 ### CNCF KubeEdge
 
@@ -53,20 +53,21 @@
 26. [Test coverage for `edge/pkg/metamanager/client` module - pod, podstatus and secret files](https://github.com/kubeedge/kubeedge/pull/5905)
 27. [CSI Driver `versionFlag` is inconsistent during CI tests](https://github.com/kubeedge/kubeedge/pull/5928)
 28. [UT coverage for `cloud/pkg/devicecontroller/controller` pkg](https://github.com/kubeedge/kubeedge/pull/5970)
+29. [Complete tests for `edge/pkg/metamanager/client`](https://github.com/kubeedge/kubeedge/pull/5926)
 
 **kubeedge/website**
 
-29. [New Blog for Release KubeEdge v1.10](https://github.com/kubeedge/website/pull/535)
-30. [New Blog for Release KubeEdge v1.11](https://github.com/kubeedge/website/pull/538)
-31. [New Blog for Release KubeEdge v1.12](https://github.com/kubeedge/website/pull/539)
-32. [New Blog for Release KubeEdge v1.13](https://github.com/kubeedge/website/pull/542)
-33. [New Blog for Release KubeEdge v1.14](https://github.com/kubeedge/website/pull/541)
-34. [New Blog for Release KubeEdge v1.15](https://github.com/kubeedge/website/pull/579)
-35. [New Blog for Release KubeEdge v1.17](https://github.com/kubeedge/website/pull/534)
-36. [Bug: We need to fix some links for local development](https://github.com/kubeedge/website/pull/567)
-37. [Docs: Improving the install with `keadm` documentation](https://github.com/kubeedge/website/pull/544)
-38. [Replacing Twitter with X](https://github.com/kubeedge/website/pull/543)
-39. [PR template goes inside `.github` directory](https://github.com/kubeedge/website/pull/537)
+30. [New Blog for Release KubeEdge v1.10](https://github.com/kubeedge/website/pull/535)
+31. [New Blog for Release KubeEdge v1.11](https://github.com/kubeedge/website/pull/538)
+32. [New Blog for Release KubeEdge v1.12](https://github.com/kubeedge/website/pull/539)
+33. [New Blog for Release KubeEdge v1.13](https://github.com/kubeedge/website/pull/542)
+34. [New Blog for Release KubeEdge v1.14](https://github.com/kubeedge/website/pull/541)
+35. [New Blog for Release KubeEdge v1.15](https://github.com/kubeedge/website/pull/579)
+36. [New Blog for Release KubeEdge v1.17](https://github.com/kubeedge/website/pull/534)
+37. [Bug: We need to fix some links for local development](https://github.com/kubeedge/website/pull/567)
+38. [Docs: Improving the install with `keadm` documentation](https://github.com/kubeedge/website/pull/544)
+39. [Replacing Twitter with X](https://github.com/kubeedge/website/pull/543)
+40. [PR template goes inside `.github` directory](https://github.com/kubeedge/website/pull/537)
     
 
 ### CNCF Kyverno
