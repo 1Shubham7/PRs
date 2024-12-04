@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### Total PRs merged - 53
+### Total PRs merged - 54
 
 ### CNCF KubeEdge
 
@@ -39,35 +39,36 @@
 12. [Tests for `storage/v1` module](https://github.com/kubeedge/kubeedge/pull/5763)
 13. [UT coverage for the `cloud/pkg/taskmanager/util` module](https://github.com/kubeedge/kubeedge/pull/5751)
 14. [Small misspell](https://github.com/kubeedge/kubeedge/pull/5742)
-15. [Test coverage for `cloud/cmd/admission` module](https://github.com/kubeedge/kubeedge/pull/5723)
-16. [Test Coverage for `debug` package](https://github.com/kubeedge/kubeedge/pull/5708)
-17. [Added tests for `keadm/cmd/keadm/app/cmd/debug/check.go`](https://github.com/kubeedge/kubeedge/pull/5700)
-18. [Added tests for `keadm beta` and `cloud` packages](https://github.com/kubeedge/kubeedge/pull/5695)
-19. [Test coverage for `keadm/cmd/keadm/app/cmd/ctl` module](https://github.com/kubeedge/kubeedge/pull/5693)
-20. [Added test coverage for `pkg/stream` package](https://github.com/kubeedge/kubeedge/pull/5690)
-21. [Unit tests for `cloud/pkg/cloudhub/common/helper.go`](https://github.com/kubeedge/kubeedge/pull/5687)
-22. [Test coverage for `cloudstream` package](https://github.com/kubeedge/kubeedge/pull/5684)
-23. [Added test coverage for `cloudstream.go`](https://github.com/kubeedge/kubeedge/pull/5682)
-24. [Test coverage for `application.go`](https://github.com/kubeedge/kubeedge/pull/5675)
-25. [Test coverage for `edge/pkg/metamanager/client` module - CSR and CM files](https://github.com/kubeedge/kubeedge/pull/5757)
-26. [Test coverage for `edge/pkg/metamanager/client` module - pod, podstatus and secret files](https://github.com/kubeedge/kubeedge/pull/5905)
-27. [CSI Driver `versionFlag` is inconsistent during CI tests](https://github.com/kubeedge/kubeedge/pull/5928)
-28. [UT coverage for `cloud/pkg/devicecontroller/controller` pkg](https://github.com/kubeedge/kubeedge/pull/5970)
-29. [Complete tests for `edge/pkg/metamanager/client`](https://github.com/kubeedge/kubeedge/pull/5926)
+15. [E2E test for application with liveness probe](https://github.com/kubeedge/kubeedge/pull/5741)
+16. [Test coverage for `cloud/cmd/admission` module](https://github.com/kubeedge/kubeedge/pull/5723)
+17. [Test Coverage for `debug` package](https://github.com/kubeedge/kubeedge/pull/5708)
+18. [Added tests for `keadm/cmd/keadm/app/cmd/debug/check.go`](https://github.com/kubeedge/kubeedge/pull/5700)
+19. [Added tests for `keadm beta` and `cloud` packages](https://github.com/kubeedge/kubeedge/pull/5695)
+20. [Test coverage for `keadm/cmd/keadm/app/cmd/ctl` module](https://github.com/kubeedge/kubeedge/pull/5693)
+21. [Added test coverage for `pkg/stream` package](https://github.com/kubeedge/kubeedge/pull/5690)
+22. [Unit tests for `cloud/pkg/cloudhub/common/helper.go`](https://github.com/kubeedge/kubeedge/pull/5687)
+23. [Test coverage for `cloudstream` package](https://github.com/kubeedge/kubeedge/pull/5684)
+24. [Added test coverage for `cloudstream.go`](https://github.com/kubeedge/kubeedge/pull/5682)
+25. [Test coverage for `application.go`](https://github.com/kubeedge/kubeedge/pull/5675)
+26. [Test coverage for `edge/pkg/metamanager/client` module - CSR and CM files](https://github.com/kubeedge/kubeedge/pull/5757)
+27. [Test coverage for `edge/pkg/metamanager/client` module - pod, podstatus and secret files](https://github.com/kubeedge/kubeedge/pull/5905)
+28. [CSI Driver `versionFlag` is inconsistent during CI tests](https://github.com/kubeedge/kubeedge/pull/5928)
+29. [UT coverage for `cloud/pkg/devicecontroller/controller` pkg](https://github.com/kubeedge/kubeedge/pull/5970)
+30. [Complete tests for `edge/pkg/metamanager/client`](https://github.com/kubeedge/kubeedge/pull/5926)
 
 **kubeedge/website**
 
-30. [New Blog for Release KubeEdge v1.10](https://github.com/kubeedge/website/pull/535)
-31. [New Blog for Release KubeEdge v1.11](https://github.com/kubeedge/website/pull/538)
-32. [New Blog for Release KubeEdge v1.12](https://github.com/kubeedge/website/pull/539)
-33. [New Blog for Release KubeEdge v1.13](https://github.com/kubeedge/website/pull/542)
-34. [New Blog for Release KubeEdge v1.14](https://github.com/kubeedge/website/pull/541)
-35. [New Blog for Release KubeEdge v1.15](https://github.com/kubeedge/website/pull/579)
-36. [New Blog for Release KubeEdge v1.17](https://github.com/kubeedge/website/pull/534)
-37. [Bug: We need to fix some links for local development](https://github.com/kubeedge/website/pull/567)
-38. [Docs: Improving the install with `keadm` documentation](https://github.com/kubeedge/website/pull/544)
-39. [Replacing Twitter with X](https://github.com/kubeedge/website/pull/543)
-40. [PR template goes inside `.github` directory](https://github.com/kubeedge/website/pull/537)
+31. [New Blog for Release KubeEdge v1.10](https://github.com/kubeedge/website/pull/535)
+32. [New Blog for Release KubeEdge v1.11](https://github.com/kubeedge/website/pull/538)
+33. [New Blog for Release KubeEdge v1.12](https://github.com/kubeedge/website/pull/539)
+34. [New Blog for Release KubeEdge v1.13](https://github.com/kubeedge/website/pull/542)
+35. [New Blog for Release KubeEdge v1.14](https://github.com/kubeedge/website/pull/541)
+36. [New Blog for Release KubeEdge v1.15](https://github.com/kubeedge/website/pull/579)
+37. [New Blog for Release KubeEdge v1.17](https://github.com/kubeedge/website/pull/534)
+38. [Bug: We need to fix some links for local development](https://github.com/kubeedge/website/pull/567)
+39. [Docs: Improving the install with `keadm` documentation](https://github.com/kubeedge/website/pull/544)
+40. [Replacing Twitter with X](https://github.com/kubeedge/website/pull/543)
+41. [PR template goes inside `.github` directory](https://github.com/kubeedge/website/pull/537)
     
 
 ### CNCF Kyverno
