@@ -69,6 +69,7 @@
 39. [Docs: Improving the install with `keadm` documentation](https://github.com/kubeedge/website/pull/544)
 40. [Replacing Twitter with X](https://github.com/kubeedge/website/pull/543)
 41. [PR template goes inside `.github` directory](https://github.com/kubeedge/website/pull/537)
+42. [Case study for Cloud Native EdgeComputing Satellite (ENG)](https://github.com/kubeedge/website/pull/655)
     
 
 ### CNCF Kyverno
