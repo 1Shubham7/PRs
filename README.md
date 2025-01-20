@@ -71,6 +71,7 @@
 41. [Replacing Twitter with X](https://github.com/kubeedge/website/pull/543)
 42. [PR template goes inside `.github` directory](https://github.com/kubeedge/website/pull/537)
 43. [Case study for Cloud Native EdgeComputing Satellite (ENG)](https://github.com/kubeedge/website/pull/655)
+44. [Case study for ZCITC Streamlining Urban Parking with KubeEdge](https://github.com/kubeedge/website/pull/659)
     
 
 ### CNCF Kyverno
