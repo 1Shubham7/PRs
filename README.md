@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### Total PRs merged - 56
+### Total PRs merged - 57
 
 ### CNCF KubeEdge
 
