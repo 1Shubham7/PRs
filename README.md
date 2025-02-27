@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### Total PRs merged - 59
+### Total PRs merged - 60
 
 ### CNCF KubeEdge
 
@@ -104,3 +104,7 @@
 2. [adding `oras manifest fetch` to the docs "Pushing_and_pulling"](https://github.com/oras-project/oras-www/pull/241)
 3. [Docs: resolves markdown error and misspells in "pushing and pulling artifacts" section](https://github.com/oras-project/oras-www/pull/230)
 4. [Docs: Added the Licenses badge and small "Contribution" section to readme](https://github.com/oras-project/oras-www/pull/214)
+
+### Kubernetes
+
+1. [Fix grammar in "Autoscaling Workloads" page](https://github.com/kubernetes/website/pull/49935)
